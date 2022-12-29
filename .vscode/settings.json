@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Community Material Theme",
+    "workbench.preferredDarkColorTheme": "Community Material Theme",
+    "workbench.preferredHighContrastColorTheme": "Community Material Theme",
+    "workbench.preferredHighContrastLightColorTheme": "Community Material Theme",
+    "workbench.preferredLightColorTheme": "Community Material Theme",
+    "material-icon-theme.activeIconPack": "react",
+    "workbench.iconTheme": "material-icon-theme"
+}
