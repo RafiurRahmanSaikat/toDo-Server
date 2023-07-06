@@ -7,7 +7,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 const uri =
-  "mongodb+srv://AllUtilityTools:2EysSRGR7iMt1TDs@cluster0.8thupxf.mongodb.net/?retryWrites=true&w=majority";
+  "url";
 const client = new MongoClient(uri);
 const DbConnect = async () => {
   try {
